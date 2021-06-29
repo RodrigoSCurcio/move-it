@@ -1,0 +1,38 @@
+[
+    {"type": "body",
+        "description": "Estique seus braços com a palma da mao virada para frente.",
+        "amount": 80
+    },
+    {"type": "body",
+        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço.",
+        "amount": 60
+    },
+    {"type": "body",
+        "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda.",
+        "amount": 70
+    },
+    {"type": "body",
+        "description": "Cruze as pernas e  desça com as mãos esticadas em direção ao chão.",
+        "amount": 60
+    },
+    {"type": "body",
+        "description": "Faça 10 flexões.",
+        "amount": 100
+    },
+    {"type": "body",
+        "description": "De 10 passadas longas.",
+        "amount": 80
+    },
+    {"type": "eye",
+        "description": "Feche os olhos por 10 segundos.",
+        "amount": 50
+    },
+    {"type": "eye",
+        "description": "feche e abra os olhos 5 vezes.",
+        "amount": 10
+    },
+    {"type": "eye",
+        "description": "Cochile por meia hora.",
+        "amount": 100
+    }
+]
